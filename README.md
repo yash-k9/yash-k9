@@ -5,6 +5,7 @@
 - 🚀 Currently exploring Jetpack Compose
 - 🤝 Looking forward to contribute more to Open Source Projects
 - 🧑‍💻 Kotlin, Java
+- 💻 A bit of Web Development and System Design
 
 ## Hacktober
 <p style="display:flex;">
