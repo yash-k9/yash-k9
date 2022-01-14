@@ -3,9 +3,7 @@
 ## About Me
 - 📱 Mobile App Developer
 - 🚀 Currently exploring Jetpack Compose
-- 🤝 Looking forward to contribute more to Open Source Projects
-- 🧑‍💻 Kotlin, Java
-- 💻 A bit of Web Development and System Design
+- 🧑‍💻 Kotlin, Java, Android
 
 ## Hacktober
 <p style="display:flex;">
