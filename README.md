@@ -5,10 +5,6 @@
 - 🚀 Currently exploring Jetpack Compose
 - 🧑‍💻 Kotlin, Java, Android
 
-## Hacktober
-<p style="display:flex;">
-<img src="./hacktoberfest-2021-badge.webp" height=120px>
-</p>
 
 ## Social 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/kurella-yash/)
